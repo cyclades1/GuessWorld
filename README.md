@@ -3,14 +3,27 @@
 
 A word game to guess the partially hidden word using it's defination. 
 
-# Screenshots
+## How to run:
 
-## Guess the word:
+- Just clone the repo and run the python file and you are ready to go.
+
+```shell
+
+python GuessWord.py
+
+```
+
+## Screenshots
+
+### You will guessed the word:
 ![Test Image 3](https://github.com/cyclades1/GuessWorld/blob/main/SS/3.png)
 
-## Or learn something new
+### You learn something new:
 ![Test Image 2](https://github.com/cyclades1/GuessWorld/blob/main/SS/2.png)
 
+<hr>
+Leave a star, if you like the idea.<br> 
+Contribution are welcome.
 
 
 
